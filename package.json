@@ -1,5 +1,5 @@
 {
-  "name": "Mtrx Client Cloner",
+  "name": "Mtrx-Client-Cloner",
   "version": "0.0.1",
   "description": "An example application of statically exporting Next.js ready to be built and deployed on Now",
   "repository": "https://github.com/JaimeVelasco/mongoClient",
